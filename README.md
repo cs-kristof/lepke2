@@ -1,1 +1,3 @@
-# lepke2
+#lepke2
+# Órai feladat
+Nappali és éjjeli lepkék feladat
